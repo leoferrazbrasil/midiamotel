@@ -35,7 +35,6 @@ body {
 .narrow {
   width: min(860px, 100%);
 }
-
 #proposito .narrow {
   margin: 0 auto;
 }
@@ -348,7 +347,6 @@ h2 {
 }
 
 @media (max-width: 640px) {
-
   #proposito .narrow {
     padding-inline: 0.4rem;
   }
